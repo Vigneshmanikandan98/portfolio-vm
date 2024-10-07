@@ -6,6 +6,7 @@ import { motion, useAnimation } from 'framer-motion'
 
 const navItems = [
   { name: 'About', href: '#about' },
+  { name: 'Tech Stack', href: '#tech-stack'},
   { name: 'Experience', href: '#experience' },
   { name: 'Work', href: '#work' },
   { name: 'Contact', href: '#contact' },
