@@ -44,7 +44,7 @@ export default function About() {
               <div className="absolute inset-0 border-2 border-primary rounded-md transform translate-x-5 translate-y-5 z-0"></div>
               <div className="relative z-10 ">
                 <Image
-                  src="https://vigneshmanikandan98.github.io/portfolio-vm/images/VigneshPort.jpg"
+                  src="https://vigneshmanikandan98.github.io/portfolio-vm/images/VigneshPort.jpg" 
                   alt="Vignesh Manikandan"
                   width={500}
                   height={500}

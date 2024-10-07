@@ -6,7 +6,7 @@ import { motion, useAnimation } from 'framer-motion'
 
 const navItems = [
   { name: 'About', href: '#about' },
-  { name: 'Tech Stack', href: '#tech-stack'},
+  { name: 'Skills', href: '#tech-stack'},
   { name: 'Experience', href: '#experience' },
   { name: 'Work', href: '#work' },
   { name: 'Contact', href: '#contact' },
@@ -61,7 +61,7 @@ export default function Header() {
                 <a 
                   href={item.href} 
                   onClick={(e) => handleClick(e, item.href)}
-                  className="text-gray-700 hover:text-primary transition-colors text-[13px]"
+                  className="text-gray-700 hover:text-primary transition-colors text-[15px]"
                 >
                   <span className="text-primary">{index + 1}. </span>{item.name}
                 </a>

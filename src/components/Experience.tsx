@@ -8,13 +8,13 @@ const experiences = [
     company: 'Community Dreams Foundation',
     position: 'Software Engineer',
     period: 'May 2024 - Present',
-    logo: 'https://vigneshmanikandan98.github.io/portfolio-vm/images/cdf.jpg'
+    logo: 'https://vigneshmanikandan98.github.io/portfolio-vm/images/cdf.jpg' 
   },
   {
     company: 'Accenture',
     position: 'Associate Software Engineer',
     period: 'Jan 2021 - Nov 2021',
-    logo: 'https://vigneshmanikandan98.github.io/portfolio-vm/images/accenture_logo.jpg'
+    logo: 'https://vigneshmanikandan98.github.io/portfolio-vm/images/accenture_logo.jpg' 
   },
   {
     company: 'NivePras IT Solutions',
