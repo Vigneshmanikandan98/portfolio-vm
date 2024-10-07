@@ -20,11 +20,13 @@ const experiences = [
     company: 'NivePras IT Solutions',
     position: 'Full Stack Developer',
     period: 'Dec 2019 - Dec 2020',
+    logo: ''
   },
   {
     company: 'NivePras IT Solutions',
     position: 'Frontend Developer Intern',
     period: 'Jul 2019 - Dec 2019',
+    logo: ''
   },
 ]
 
