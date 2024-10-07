@@ -1,4 +1,5 @@
-import './globals.css'
+'use client'
+
 import { Inter } from 'next/font/google'
 import { Metadata } from 'next'
 
@@ -9,7 +10,7 @@ export const metadata: Metadata = {
   description: 'Vignesh Manikandan is a software engineer specializing in building exceptional digital experiences.',
 }
 
-export default function RootLayout({
+export function Layout({
   children,
 }: {
   children: React.ReactNode
